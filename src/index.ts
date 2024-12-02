@@ -8,3 +8,4 @@ const NativeAuth = registerPlugin<NativeAuthPlugin>('NativeAuth', {
 
 export * from './definitions';
 export { NativeAuth };
+export {NativeAuthConfigOptions, NativeAuthResponse} from '../src/models/native-auth.types';
