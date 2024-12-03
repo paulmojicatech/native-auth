@@ -5,4 +5,10 @@ import Foundation
         print(value)
         return value
     }
+
+    @objc public func showAppleSignIn(_ isSuccess: Bool) -> Bool {
+        return isSuccess
+    }
+
+
 }

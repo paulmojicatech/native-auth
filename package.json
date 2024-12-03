@@ -1,6 +1,6 @@
 {
   "name": "@paulmojicatech/native-auth",
-  "version": "0.0.1",
+  "version": "0.0.10",
   "description": "Plugin to provide native auth solutions",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
